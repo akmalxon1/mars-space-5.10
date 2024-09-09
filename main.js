@@ -32,4 +32,4 @@ form.addEventListener("submit", (e) => {
     p.style.fontSize = "30px";
     p.style.color = `#${random}`;
 })
-
+ 
